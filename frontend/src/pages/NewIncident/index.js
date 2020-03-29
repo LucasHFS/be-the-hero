@@ -47,7 +47,7 @@ export default function NewIncident() {
 
                 <Link to="/profile" className="back-link">
                     <FiArrowLeft size={16} color="#e02041"/>
-                    Não tenho cadastro
+                    Voltar
                 </Link>                    
             </section>
 

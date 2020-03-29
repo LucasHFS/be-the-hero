@@ -22,7 +22,7 @@ export default StyleSheet.create({
     marginTop: 48,
     },  
 
-    incentProperty: {
+    incidentProperty: {
         fontSize: 14,
         color: '#41414d',
         fontWeight: 'bold',
@@ -30,8 +30,8 @@ export default StyleSheet.create({
 
     incidentValue: {
         marginTop: 8,
+        marginBottom: 15,
         fontSize: 15,
-        marginTop: 24,
         color: '#737380'
     },
 
